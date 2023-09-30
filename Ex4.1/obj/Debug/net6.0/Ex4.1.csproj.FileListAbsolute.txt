@@ -1,0 +1,15 @@
+D:\Y3\Coding\OS\Ex4.1\bin\Debug\net6.0\Ex4.1.exe
+D:\Y3\Coding\OS\Ex4.1\bin\Debug\net6.0\Ex4.1.deps.json
+D:\Y3\Coding\OS\Ex4.1\bin\Debug\net6.0\Ex4.1.runtimeconfig.json
+D:\Y3\Coding\OS\Ex4.1\bin\Debug\net6.0\Ex4.1.dll
+D:\Y3\Coding\OS\Ex4.1\bin\Debug\net6.0\Ex4.1.pdb
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\Ex4.1.csproj.AssemblyReference.cache
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\Ex4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\Ex4.1.AssemblyInfoInputs.cache
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\Ex4.1.AssemblyInfo.cs
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\Ex4.1.csproj.CoreCompileInputs.cache
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\Ex4.1.dll
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\refint\Ex4.1.dll
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\Ex4.1.pdb
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\Ex4.1.genruntimeconfig.cache
+D:\Y3\Coding\OS\Ex4.1\obj\Debug\net6.0\ref\Ex4.1.dll

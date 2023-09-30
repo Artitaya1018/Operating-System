@@ -1,0 +1,15 @@
+d:\GNO\3D\Sem1\OS\case_study#1\bin\Debug\net6.0\case_study#1.exe
+d:\GNO\3D\Sem1\OS\case_study#1\bin\Debug\net6.0\case_study#1.deps.json
+d:\GNO\3D\Sem1\OS\case_study#1\bin\Debug\net6.0\case_study#1.runtimeconfig.json
+d:\GNO\3D\Sem1\OS\case_study#1\bin\Debug\net6.0\case_study#1.dll
+d:\GNO\3D\Sem1\OS\case_study#1\bin\Debug\net6.0\case_study#1.pdb
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\case_study#1.csproj.AssemblyReference.cache
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\case_study#1.GeneratedMSBuildEditorConfig.editorconfig
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\case_study#1.AssemblyInfoInputs.cache
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\case_study#1.AssemblyInfo.cs
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\case_study#1.csproj.CoreCompileInputs.cache
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\case_study#1.dll
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\refint\case_study#1.dll
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\case_study#1.pdb
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\case_study#1.genruntimeconfig.cache
+d:\GNO\3D\Sem1\OS\case_study#1\obj\Debug\net6.0\ref\case_study#1.dll

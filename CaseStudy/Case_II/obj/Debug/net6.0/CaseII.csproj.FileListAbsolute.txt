@@ -1,0 +1,15 @@
+d:\Y3\Coding\OS\CaseStudy\Case_II\bin\Debug\net6.0\CaseII.exe
+d:\Y3\Coding\OS\CaseStudy\Case_II\bin\Debug\net6.0\CaseII.deps.json
+d:\Y3\Coding\OS\CaseStudy\Case_II\bin\Debug\net6.0\CaseII.runtimeconfig.json
+d:\Y3\Coding\OS\CaseStudy\Case_II\bin\Debug\net6.0\CaseII.dll
+d:\Y3\Coding\OS\CaseStudy\Case_II\bin\Debug\net6.0\CaseII.pdb
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\CaseII.csproj.AssemblyReference.cache
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\CaseII.GeneratedMSBuildEditorConfig.editorconfig
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\CaseII.AssemblyInfoInputs.cache
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\CaseII.AssemblyInfo.cs
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\CaseII.csproj.CoreCompileInputs.cache
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\CaseII.dll
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\refint\CaseII.dll
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\CaseII.pdb
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\CaseII.genruntimeconfig.cache
+d:\Y3\Coding\OS\CaseStudy\Case_II\obj\Debug\net6.0\ref\CaseII.dll
